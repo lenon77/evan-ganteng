@@ -31,5 +31,5 @@ Saya adalah developer yang fokus di:
 - Node.js
 
 ## Kontak
-- Email: esaptapradana@gmail.com
+- Email: evansaptapradana2@gmail.com
 - GitHub: github.com/lenonn
