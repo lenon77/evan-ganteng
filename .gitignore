@@ -1,10 +1,2 @@
- 
-node_modules/
-.env
-.env.local
-dist/
-build/
-.vscode/
-.idea/
-*.log
-.DS_Store
+.env 
+config.js 
